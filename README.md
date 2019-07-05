@@ -1,6 +1,6 @@
 # bash-script-converter
 
-> test
+> This bash script will change one currency to another based on the rate of any past days.
 
 # Usage
 `./converter.sh [ -f currency ] [ -t currency ] [ -d date ] [ number ]`
