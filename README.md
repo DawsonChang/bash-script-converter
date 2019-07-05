@@ -24,7 +24,7 @@
 
 ## Example
 `./converter.sh -f USD -t HKD -d 2019-03-05 500`
-##### It means that we want to change USD to HKD, on the date of 2019-03-05, and the number of base currency
+##### It means that we want to change USD to HKD, on the date of 2019-03-05 with the number of base currency
 
 ## Others
 ##### Due to the limitation of API, you only can change following currencies:
